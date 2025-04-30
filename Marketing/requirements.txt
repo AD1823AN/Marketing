@@ -1,6 +1,0 @@
-Flask
-pandas
-plotly
-scikit-learn
-matplotlib
-seaborn
